@@ -1,0 +1,2 @@
+# MSc-Thesis-GRL-for-Learning-in-Incompatible-Environments-using-Graph-Representations
+This repository contains the code for a master's thesis on graph-based reinforcement learning using graph neural networks and transformer-based approaches. The thesis explores the role of morphological information on GNNs for continuous control and proposes a novel method that outperforms existing GNN-based methods.
